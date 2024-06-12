@@ -28,6 +28,14 @@ getPorts().then((ports) => {
 })
 ```
 
+## Compatibility
+
+| MacOS              | Windows       |         Linux |
+| :----------------- | ------------- | ------------: |
+| :white_check_mark: | :interrobang: | :interrobang: |
+
+#### Please let us know if you have tested this library on Windows or Linux, so we can update the compatibility table.
+
 ## Linting
 
 To lint the entire project, execute the following command;
